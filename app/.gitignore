@@ -1,1 +1,5 @@
 /build
+ git add .
+ git commit -m "First commit"
+ git remote add https://github.com/Nikelroid/Narkarde-app.git
+ git push origin master
